@@ -1,5 +1,5 @@
 
-### Hey! Welcome to muy GitHub profile 👋
+### Hey! Welcome to my GitHub profile 👋
 
 You can check my actual projects in my pinned repositories below<br/>
 
