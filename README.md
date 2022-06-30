@@ -9,4 +9,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=PyDroidGUI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/PyDroidGUI)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Youtube_Downloader&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Youtube_Downloader)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Kotlin_Calculator_Desktop&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Kotlin_Calculator_Desktop)
