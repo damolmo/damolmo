@@ -26,3 +26,6 @@
 
 # <img src="https://github.com/daviiid99/daviiid99/blob/main/resources/j5.png" height="80" width="80"> AOSP Maintainer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-J5-Unofficial-LineageOS-Sources&repo=Manifest&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Galaxy-J5-Unofficial-LineageOS-Sources/Manifest)
+
+# <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" height="80" width="80"> Android Development
+
