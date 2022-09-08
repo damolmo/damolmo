@@ -4,7 +4,7 @@
 
 #### About Me
 I'm not a social guy so GitHub is like my social media profile.
-I've started building web pages when I was 12 yo. In the last years I've contributing to 
+I've started building web pages when I was 12 yo. In the last years I've been contributing to 
 Open-Source projects for different devices. All my projects, past, present and future will remain open.
 
 What we build today, will power the furure
