@@ -1,18 +1,10 @@
 
-### Hey! Welcome to my GitHub profile 🙌
+# Hey! Welcome to my GitHub profile 🙌
 ![](https://komarev.com/ghpvc/?username=daviiid99&style=plastic&label=My+Profile+Views)
 
-#### About Me
-I'm not a social guy so GitHub is like my social media profile.
-I've started building web pages when I was 12 yo. In the last few years I've been contributing to 
-Open-Source projects for different devices. All my projects, past, present and future will remain open.
-
-What we build today, will power the future
-
-~ David
-
-
-### These are my current projects
+<img src="https://github-readme-stats.vercel.app/api?username=daviiid99&show_icons=true&theme=gotham" alt="github stats" width="100%" align="left"/><br/>
+<br/>
+# My projects
 
 # <img src="https://cdn2.iconfinder.com/data/icons/game-device-2/512/xone_controller_black_512.png" width="100" height="100"> Games
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Pokemon_Little_Little_Village&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Pokemon_Little_Little_Village)
