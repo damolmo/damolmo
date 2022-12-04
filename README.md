@@ -3,8 +3,29 @@
 ![](https://komarev.com/ghpvc/?username=daviiid99&style=plastic&label=My+Profile+Views)
 
 <img src="https://github-readme-stats.vercel.app/api?username=daviiid99&show_icons=true&theme=gotham" alt="github stats" width="100%" align="left"/><br/>
-<br/>
-# My projects
+
+<br/><br/></br><br/><br/><br/>
+<br/><br/></br><br/><br/><br/>
+<br/><br/></br><br/><br/>
+
+# <img src = "https://github.com/daviiid99/daviiid99/blob/main/flutter.png?raw=true"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Material_Dialer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Material_Dialer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Material-Downloader&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Material-Downloader)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Shoppy_Go&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Shoppy_Go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Horizon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Horizon)
+
+# <img src="https://github.com/daviiid99/daviiid99/blob/main/android.png?raw=true"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Project_Dessert&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Project_Dessert)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Currency_Converter&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Currency_Converter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-J5-Unofficial-LineageOS-Sources&repo=Manifest&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Galaxy-J5-Unofficial-LineageOS-Sources/Manifest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Ahorcado_Game&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Ahorcado_Game)
+
+
+# <img src = "https://github.com/daviiid99/daviiid99/blob/main/python.png?raw=true" />
 
 # <img src="https://cdn2.iconfinder.com/data/icons/game-device-2/512/xone_controller_black_512.png" width="100" height="100"> Games
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Pokemon_Little_Little_Village&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Pokemon_Little_Little_Village)
@@ -25,10 +46,3 @@
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" height="80" with="80"> Shell Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=PyDroid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/PyDroid)
-
-# <img src="https://github.com/daviiid99/daviiid99/blob/main/resources/j5.png" height="80" width="80"> AOSP Maintainer
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-J5-Unofficial-LineageOS-Sources&repo=Manifest&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Galaxy-J5-Unofficial-LineageOS-Sources/Manifest)
-
-# <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" height="80" width="80"> Android Development
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Project_Dessert&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Project_Dessert)
-
