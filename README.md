@@ -4,9 +4,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=daviiid99&show_icons=true&theme=gotham" alt="github stats" width="100%" align="left"/><br/>
 
-<br/><br/></br><br/><br/><br/>
-<br/><br/></br><br/><br/><br/>
-<br/><br/></br><br/>
 
 # <img src = "https://github.com/daviiid99/daviiid99/blob/main/flutter.png?raw=true"/>
 
