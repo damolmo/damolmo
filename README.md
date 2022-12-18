@@ -13,6 +13,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Shoppy_Go&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Shoppy_Go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Horizon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Horizon)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=WhatsApp_Direct&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/WhatsApp_Direct)
+
 # <img src="https://github.com/daviiid99/daviiid99/blob/main/android.png?raw=true"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Project_Dessert&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Project_Dessert)
