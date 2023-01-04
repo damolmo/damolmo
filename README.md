@@ -15,6 +15,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=WhatsApp_Direct&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/WhatsApp_Direct)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Encryptable_Message&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Encryptable_Message)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Encryptable_DES&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Encryptable_DES)
+
 # <img src="https://github.com/daviiid99/daviiid99/blob/main/android.png?raw=true"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Project_Dessert&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Project_Dessert)
