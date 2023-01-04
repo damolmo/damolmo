@@ -14,9 +14,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Horizon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Horizon)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=WhatsApp_Direct&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/WhatsApp_Direct)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Galaxy_J5_Downloader&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Galaxy_J5_Downloader)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Encryptable_Message&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Encryptable_Message)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Encryptable_DES&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Encryptable_DES)
 
 # <img src="https://github.com/daviiid99/daviiid99/blob/main/android.png?raw=true"/>
