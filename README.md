@@ -8,6 +8,8 @@
 # <img src = "https://github.com/daviiid99/daviiid99/blob/main/flutter.png?raw=true"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=CARDS_Pocket&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/CARDS_Pocket)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=animal_crossing_clock&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/animal_crossing_clock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Animal_Crossing_Radio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Animal_Crossing_Radio)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviiid99&repo=Material_Dialer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/daviiid99/Material_Dialer)
