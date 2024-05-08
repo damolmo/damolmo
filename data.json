@@ -1,5 +1,5 @@
-{
-    "Animal Crossing Clock" : {
+[{
+      "appName" : "Animal Crossing Clock",
       "appLogo" : "assets/apps/animal_crossing_clock/logo.png",
       "appBanner" : "assets/apps/animal_crossing_clock/banner.png",
       "appVersion" : "2.1.0",
@@ -14,7 +14,9 @@
       "appApkUrl" : "https://github.com/damolmo/animal_crossing_clock/releases/download/latest/animal_crossing_clock.apk"
     },
 
-    "Animal Crossing Radio" : {
+{
+
+      "appName" : "Animal Crossing Radio",
       "appLogo" : "assets/apps/animal_crossing_radio/logo.png",
       "appBanner" : "assets/apps/animal_crossing_radio/banner.png",
       "appVersion" : "1.0.1",
@@ -29,7 +31,8 @@
       "appApkUrl" : "https://github.com/damolmo/animal_crossing_clock/releases/download/latest/animal_crossing_clock.apk"
         },
 
-    "Cards Pocket" : {
+{
+      "appName" :"Cards Pocket",
       "appLogo" : "assets/apps/cards_pocket/logo.png",
       "appBanner" : "assets/apps/cards_pocket/banner.png",
       "appVersion" : "1.0.2",
@@ -44,7 +47,8 @@
       "appApkUrl" : "https://github.com/damolmo/CARDS_Pocket/releases/download/latest/CARDS_Pocket_stable.apk"
     },
 
-    "Damolmo Store" : {
+{
+      "appName" : "Damolmo Store",
       "appLogo" : "assets/apps/damolmo_store/logo.png",
       "appBanner" : "assets/apps/damolmo_store/banner.png",
       "appVersion" : "1.0.0",
@@ -59,7 +63,9 @@
       "appApkUrl" : "https://github.com/damolmo/Damolmo-Store/releases/download/latest/damolmo_store.apk"
     },
 
-    "Fast Notes" : {
+{
+
+      "appName" : "Fast Notes",
       "appLogo" : "assets/apps/fast_notes/logo.png",
       "appBanner" : "assets/apps/fast_notes/banner.png",
       "appVersion" : "1.0.0",
@@ -74,8 +80,8 @@
       "appApkUrl" : "https://github.com/damolmo/Fast_Notes/releases/download/latest/fast_notes.apk"
 
     },
-
-    "Horizon" : {
+{
+      "appName" : "Horizon",
       "appLogo" : "assets/apps/horizon/logo.png",
       "appBanner" : "assets/apps/horizon/banner.png",
       "appVersion" : "3.2.0",
@@ -90,7 +96,8 @@
       "appApkUrl" : "https://github.com/damolmo/Horizon/releases/download/latest/horizon.apk"
     },
 
-    "Material Dialer" : {
+{
+      "appName" : "Material Dialer",
       "appLogo" : "assets/apps/material_dialer/logo.png",
       "appBanner" : "assets/apps/material_dialer/banner.png",
       "appVersion" : "28.0.0",
@@ -105,7 +112,8 @@
       "appApkUrl" : "https://github.com/damolmo/Material_Dialer/releases/download/latest/material_dialer.apk"
     },
 
-    "Material Downloader" : {
+{
+      "appName" : "Material Downloader",
       "appLogo" : "assets/apps/material_downloader/logo.png",
       "appBanner" : "assets/apps/material_downloader/banner.png",
       "appVersion" : "2.0.0",
@@ -119,8 +127,8 @@
       "appWebUrl" : "",
       "appApkUrl" : "https://github.com/damolmo/Material_Dialer/releases/download/latest/material_dialer.apk"
     },
-
-    "Message Direct" : {
+{
+      "appName" : "Message Direct",
       "appLogo" : "assets/apps/message_direct/logo.png",
       "appBanner" : "assets/apps/message_direct/banner.png",
       "appVersion" : "3.2.0",
@@ -135,7 +143,8 @@
       "appApkUrl" : "https://github.com/damolmo/Message_Direct/releases/download/latest/message_direct.apk"
     },
 
-    "Shoppy Go" : {
+{
+      "appName" : "Shoppy Go",
       "appLogo" : "assets/apps/shoppy_go/logo.png",
       "appBanner" : "assets/apps/shoppy_go/banner.png",
       "appVersion" : "3.2.1",
@@ -150,7 +159,8 @@
       "appApkUrl" : "https://github.com/damolmo/Shoppy_Go/releases/download/latest/shoppy_go.apk"
     },
 
-    "WhatsaApp Direct" : {
+{
+      "appName" : "WhatsaApp Direct",
       "appLogo" : "assets/apps/whatsapp_direct/logo.png",
       "appBanner" : "assets/apps/whatsapp_direct/banner.png",
       "appVersion" : "2.0.0",
@@ -164,4 +174,4 @@
       "appWebUrl" : "",
       "appApkUrl" : "https://github.com/damolmo/WhatsApp_Direct/releases/download/latest/app-release.apk"
     },
-  }
+  ]
